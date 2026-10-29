@@ -3,7 +3,7 @@
 **Student:** <Md. Farid Hasan>
 
 ## 1. GitHub repository
-<https://github.com/<faridhasan2020>/yolo-object-detection>
+<https://github.com/faridhasan2020/yolo-object-detection>
 
 ## 2. Implemented API endpoints
 
